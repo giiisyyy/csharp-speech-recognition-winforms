@@ -24,7 +24,7 @@ A Windows Forms desktop application developed in C# (.NET) that implements the n
 1. Clone the repository:
 
 ```bash
-   git clone [https://github.com/TU_USUARIO/csharp-speech-recognition-winforms.git](https://github.com/TU_USUARIO/csharp-speech-recognition-winforms.git)
+   git clone https://github.com/giiisyyy/csharp-speech-recognition-winforms
 ```
 
 2. Open the .slnx solution file in Visual Studio.
