@@ -33,3 +33,8 @@ A Windows Forms desktop application developed in C# (.NET) that implements the n
 
 4. Press F5 or click Start to run the application.
 
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
